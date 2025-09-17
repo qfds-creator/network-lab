@@ -1,3 +1,3 @@
 # Network Lab
 
-Where all miracles starts.
+Where all miracles begin.
