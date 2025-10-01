@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/http-client.dir/link.d "CMakeFiles/http-client.dir/src/main.c.o" -o http-client
